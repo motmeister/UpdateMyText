@@ -3,6 +3,7 @@
 //  UpdateMyText
 //
 //  Created by Dennis Schaefer on 12/29/20.
+//  Recreated on 01/03/2021.
 //
 
 import Cocoa
